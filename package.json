@@ -1,0 +1,20 @@
+{
+  "name": "diddo",
+  "version": "1.0.0",
+  "description": "Very naive DID resolution for atproto handles.",
+  "main": "index.js",
+  "bin": {
+    "diddo": "./index.js"
+  },
+  "keywords": ["atproto", "did"],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/estrattonbailey/diddo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/estrattonbailey/diddo/issues"
+  },
+  "homepage": "https://github.com/estrattonbailey/diddo#readme",
+  "author": "@estrattonbailey",
+  "license": "MIT"
+}
